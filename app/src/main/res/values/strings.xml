@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WarehouseApplicationProject</string>
+    <string name="scan_text">Scan</string>
+    <string name="search_text">Search</string>
+    <string name="result_could_not_be_loaded">Result could not be loaded</string>
+    <string name="retry_button_text">Retry</string>
+    <string name="no_results_found_for_this_search">No results found for this search</string>
+    <string name="please_try_again">please try again</string>
+    <string name="results_could_not_be_loaded">Results could not be loaded</string>
+    <string name="retry">Retry</string>
+
+
+    <string name="success_title">You successfully scanned:</string>
+    <string name="back_to_scanner">Back to scanner</string>
+    <string name="title">Title</string>
+</resources>
